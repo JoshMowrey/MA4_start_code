@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/MA4_start_code.dir/main.cpp.o -o MA4_start_code 
